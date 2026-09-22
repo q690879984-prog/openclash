@@ -1,6 +1,12 @@
-payload:
-  - DOMAIN-KEYWORD,moomoo
-  - DOMAIN-SUFFIX,tigerfintech.com
-  - DOMAIN-SUFFIX,skytigris.cn
-  - DOMAIN-SUFFIX,akamai.net
-  - DOMAIN-SUFFIX,tradeup.com
+
+DOMAIN-KEYWORD,moomoo
+DOMAIN-SUFFIX,tigerfintech.com
+DOMAIN-SUFFIX,skytigris.cn
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,tradeup.com
+DOMAIN-KEYWORD,laohu
+DOMAIN-SUFFIX,moomoobull.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,eleqwrhpe.cc
+DOMAIN-KEYWORD,feizai
+DOMAIN-KEYWORD,duolingo
